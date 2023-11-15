@@ -14,5 +14,5 @@
 
 ## Contents
 
-- [The primary Ubuntu terminal executes commands](https://github.com/futuremobilitylabTAU/SimMobility_Aimsun/wiki/The-primary-Ubuntu-terminal-executes-commands)
+- [Introduction](https://github.com/futuremobilitylabTAU/SimMobility_Aimsun/wiki/Introduction)
 
