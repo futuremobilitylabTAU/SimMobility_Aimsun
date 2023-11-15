@@ -16,9 +16,3 @@
 
 - [The primary Ubuntu terminal executes commands](https://github.com/futuremobilitylabTAU/SimMobility_Aimsun/wiki/The-primary-Ubuntu-terminal-executes-commands)
 
-
-for i in {1..40}; do cd  &&  echo "iteration" $i  &&
-  cd "/home/yedidya/simmobility/dev/Basic" &&
-  echo "done iteration -------------------------------------------------------------------------------------------------"; done
-
-**Then carefully add command by  command   according to the configuration of your run**
