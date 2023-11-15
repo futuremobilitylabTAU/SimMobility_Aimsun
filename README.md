@@ -6,7 +6,7 @@
 # simmobility aimsun 
 
 
-**This repository contain nearly data for the integration between 2 simulators**
+*This repository houses extensive data facilitating the smooth integration between two simulators: SimMobility for preday demand simulation and Aimsun Next for supply (road network) simulation.**
 
 
 <a href="https://ibb.co/vC5b8b9"><img src="https://i.ibb.co/mrsm7mp/Whats-App-Image-2023-11-15-at-09-52-21-eaf3dae6.jpg" alt="Whats-App-Image-2023-11-15-at-09-52-21-eaf3dae6" border="0"></a>
