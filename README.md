@@ -6,10 +6,8 @@
 *This repository houses extensive data facilitating the smooth integration between two simulators: SimMobility  preday demand simulation and Aimsun Next for supply (road network) simulation. This repository incorporates a recommended configuration for a mesoscopic emission model customized to the environmental conditions of the State of Israel. The model is derived from AIMSUN NEXT simulation results. Lastly, this package encompasses configuration files and result analyses for an AMOD service operator. The operator derives its demand from SimMobility preday and operates on AIMSUN RIDE API supply.*
 <br><be>
 
+![simmobility aimsun ](https://static.wixstatic.com/media/ada21e_7bdad8e8c2754a0e907a4698ee6dbbf1~mv2.jpg)
 
-<div style="width: 300px; height: 300px;">
-  <img src="https://static.wixstatic.com/media/ada21e_7bdad8e8c2754a0e907a4698ee6dbbf1~mv2.jpg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-</div>
 
 
 ## Contents
